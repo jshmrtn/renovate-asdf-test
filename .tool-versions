@@ -3,7 +3,7 @@ cargo-make 0.36.1
 clojure 1.11.1.1181
 crystal 1.6.0
 deno 1.26.1
-direnv 2.32.0
+direnv 2.32.1
 dprint 0.32.1
 elixir 1.14.0
 elm 0.19.0
